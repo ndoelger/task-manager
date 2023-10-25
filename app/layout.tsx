@@ -6,6 +6,7 @@ import { Inter } from "next/font/google";
 import NavBar from "./NavBar";
 import { Theme, ThemePanel } from "@radix-ui/themes";
 
+
 const inter = Inter({
   subsets: ["latin"],
   display: "swap",
